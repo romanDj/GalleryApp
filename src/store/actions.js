@@ -1,0 +1,12 @@
+export const PHOTOS_HANDLER = 'PHOTOS_HANDLER';
+export const PHOTOS_SWAP_HANDLER = 'PHOTOS_SWAP_HANDLER';
+export const PHOTOS_LOAD = 'PHOTOS_LOAD';
+export const PHOTOS_SWAP = 'PHOTOS_SWAP';
+export const PAGES_INCREMENT = 'PAGES_INCREMENT';
+
+export const PHOTO_LOAD_HANDLER = 'PHOTO_LOAD_HANDLER';
+export const PHOTO_LOAD = 'PHOTO_LOAD';
+export const PHOTO_UNLOAD = 'PHOTO_UNLOAD';
+
+export const ASYNC_START = 'ASYNC_START';
+export const ASYNC_END = 'ASYNC_END';
